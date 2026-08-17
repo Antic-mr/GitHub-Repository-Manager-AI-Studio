@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Repository Manager & AI Studio",
+  "description": "A comprehensive GitHub management platform to browse, create, and manage repositories, commits, branches, issues, pull requests, and workflows with AI-assisted features and OAuth/Token authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
